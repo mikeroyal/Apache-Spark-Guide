@@ -17,7 +17,7 @@
 
 1. [Apache Spark Learning Resources](https://github.com/mikeroyal/Apache-Spark-Guide#Apache-Spark-learning-resources)
 
-2. [Apache Spark Frameworks, Libraries, and Tools](https://github.com/mikeroyal/Apache-Spark-Guide#Apache-Spark-frameworks-libraries-and-tools)
+2. [Apache Spark Frameworks, Libraries, and Tools](https://github.com/mikeroyal/Apache-Spark-Guide#Apache-Spark-tools-libraries-and-frameworks)
 
 3. [Machine Learning](https://github.com/mikeroyal/Apache-Spark-Guide#machine-learning)
 
@@ -171,6 +171,11 @@
 
 # Machine Learning
 [Back to the Top](https://github.com/mikeroyal/Apache-Spark-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/134075212-b132056a-5980-4610-a141-dd0677b17b5f.png">
+  <br />
+</p>
 
 ## Learning Resources for ML
 
