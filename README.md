@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/134823706-0c91f49e-d2f8-4c4b-8f0d-8637bc85ba33.png">
   <br />
   Apache Spark Guide
 </h1>
@@ -7,8 +7,10 @@
 #### A guide covering Apache Spark including the applications, libraries and tools that will make you better and more efficient with Apache Spark development.
 
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+<img src="https://user-images.githubusercontent.com/45159366/134823710-8a294ea0-fad2-4e40-9dba-838ef43728a3.png">
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45159366/134823713-91f7ee05-44ac-494e-a1a1-4d22d5161cba.png">
 
 
 # Table of Contents
